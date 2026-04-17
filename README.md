@@ -63,7 +63,9 @@ I enjoy solving real-world business problems using data and building interactive
  Actively seeking roles:
 
 Data Analyst
+
 Power BI Developer
+
 Business Intelligence Analyst
 
 
