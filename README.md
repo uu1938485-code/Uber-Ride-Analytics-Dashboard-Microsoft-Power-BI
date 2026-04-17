@@ -1,14 +1,14 @@
-Uber Ride Analytics Dashboard | Microsoft Power BI
+**Uber Ride Analytics Dashboard | Microsoft Power BI**
 
-https://github.com/uu1938485-code/Uber-Ride-Analytics-Dashboard-Microsoft-Power-BI/blob/b18b11b1fc390004e965e1e7fa874b508f8a2b44/Dashboard%201.jpg
+![](https://github.com/uu1938485-code/Uber-Ride-Analytics-Dashboard-Microsoft-Power-BI/blob/b18b11b1fc390004e965e1e7fa874b508f8a2b44/Dashboard%201.jpg)
 
-https://github.com/uu1938485-code/Uber-Ride-Analytics-Dashboard-Microsoft-Power-BI/blob/b18b11b1fc390004e965e1e7fa874b508f8a2b44/Dashboard%202.jpg
+![](https://github.com/uu1938485-code/Uber-Ride-Analytics-Dashboard-Microsoft-Power-BI/blob/b18b11b1fc390004e965e1e7fa874b508f8a2b44/Dashboard%202.jpg)
 
-https://github.com/uu1938485-code/Uber-Ride-Analytics-Dashboard-Microsoft-Power-BI/blob/b18b11b1fc390004e965e1e7fa874b508f8a2b44/Dashboard%203.jpg
+![](https://github.com/uu1938485-code/Uber-Ride-Analytics-Dashboard-Microsoft-Power-BI/blob/b18b11b1fc390004e965e1e7fa874b508f8a2b44/Dashboard%203.jpg)
 
-https://github.com/uu1938485-code/Uber-Ride-Analytics-Dashboard-Microsoft-Power-BI/blob/b18b11b1fc390004e965e1e7fa874b508f8a2b44/Dashboard%204.jpg
+![](https://github.com/uu1938485-code/Uber-Ride-Analytics-Dashboard-Microsoft-Power-BI/blob/b18b11b1fc390004e965e1e7fa874b508f8a2b44/Dashboard%204.jpg)
 
-https://github.com/uu1938485-code/Uber-Ride-Analytics-Dashboard-Microsoft-Power-BI/blob/b18b11b1fc390004e965e1e7fa874b508f8a2b44/Dashboard%205.jpg
+![](https://github.com/uu1938485-code/Uber-Ride-Analytics-Dashboard-Microsoft-Power-BI/blob/b18b11b1fc390004e965e1e7fa874b508f8a2b44/Dashboard%205.jpg)
 
 I built a comprehensive 5-page interactive Uber Analytics Dashboard analyzing ride bookings, revenue performance, customer behavior, vehicle types, and driver ratings — covering 149K completed rides and $52M in total revenue!
 
